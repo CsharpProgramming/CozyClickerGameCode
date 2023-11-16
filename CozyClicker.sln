@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CozyClicker", "CozyClicker.csproj", "{ABB81401-FCDF-429F-A002-F40277F37B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB81401-FCDF-429F-A002-F40277F37B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB81401-FCDF-429F-A002-F40277F37B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB81401-FCDF-429F-A002-F40277F37B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB81401-FCDF-429F-A002-F40277F37B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D945D3AA-ADEF-4B10-8BE0-23642634BC70}
+	EndGlobalSection
+EndGlobal
